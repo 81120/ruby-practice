@@ -1,0 +1,13 @@
+{
+  ".class": {
+    "height": 200,
+    "width": 300,
+
+    "#id": {
+      "color": "#fff"
+    }
+  },
+  "target": {
+    "position": "absolute"
+  }
+}
